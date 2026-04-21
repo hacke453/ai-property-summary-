@@ -1,0 +1,1264 @@
+{
+  "impacted_areas": [
+    {
+      "area_id": "impacted-area-1",
+      "page": 3,
+      "negative": "Hall Skirting level Dampness",
+      "positive": "Common Bathroom tile",
+      "raw_block": "Negative side Description Hall Skirting level Dampness Negative side photographs Photo 1 Photo 2 Photo 3 Photo 4 Photo 5 Photo 6 Photo 7 Positive side Description Common Bathroom tile hollowness Positive side photographs Photo 8 Photo 9 Photo 10 Photo 11"
+    },
+    {
+      "area_id": "impacted-area-2",
+      "page": 3,
+      "negative": "Bedroom Skirting level",
+      "positive": "Common Bathroom tile",
+      "raw_block": "Negative side Description Bedroom Skirting level Dampness Negative side photographs Site Details Positive side Description Common Bathroom tile hollowness Positive side photographs Photo 15 Photo 16 Photo 17 Photo 18 Photo 19"
+    },
+    {
+      "area_id": "impacted-area-3",
+      "page": 4,
+      "negative": "Master bedroom Skirting level",
+      "positive": "MB Bathroom tile hollowness",
+      "raw_block": "Negative side Description Master bedroom Skirting level Dampness Negative side photographs Photo 20 Photo 21 Photo 22 Photo 23 Photo 24 Photo 25 Positive side Description MB Bathroom tile hollowness Positive side photographs Photo 26 Photo 27 Photo 28 Photo 29 Photo 30"
+    },
+    {
+      "area_id": "impacted-area-4",
+      "page": 4,
+      "negative": "Kitchen Skirting level",
+      "positive": "Master bedroom bathroom",
+      "raw_block": "Negative side Description Kitchen Skirting level Dampness Negative side photographs Photo 31 Photo 32 Positive side Description Master bedroom bathroom Positive side photographs Photo 33 Photo 34 Photo 35 Photo 36 Photo 37"
+    },
+    {
+      "area_id": "impacted-area-5",
+      "page": 5,
+      "negative": "Master bedroom wall damness",
+      "positive": "External wall crack and Duct",
+      "raw_block": "Negative side Description Master bedroom wall damness Negative side photographs Photo 38 Photo 39 Photo 40 Photo 41 Positive side Description External wall crack and Duct Issue Positive side photographs Photo 42 Photo 43 Photo 44 Photo 45 Photo 46 Photo 47 Photo 48"
+    },
+    {
+      "area_id": "impacted-area-6",
+      "page": 5,
+      "negative": "Parking Area seepage",
+      "positive": "Common Bathroom tile",
+      "raw_block": "Negative side Description Parking Area seepage Negative side photographs Photo 49 Photo 50 Photo 51 Photo 52 Positive side Description Common Bathroom tile hollowness and plumbing issue Positive side photographs Photo 53 Photo 54 Photo 55 Photo 56 Photo 57"
+    },
+    {
+      "area_id": "impacted-area-7",
+      "page": 6,
+      "negative": "Common Bathroom Ceiling",
+      "positive": "Flat no 203 tile joint open and",
+      "raw_block": "Negative side Description Common Bathroom Ceiling Dampness Negative side photographs Photo 58 outlet Leakage Positive side Description Flat no 203 tile joint open and Positive side photographs Photo 59 Photo 60 Photo 61 Photo 62 Photo 63 Photo 64 Inspection Checklists 1 flagged, 84.21% Condition of leakage at adjacent walls Condition of leakage below WC Leakage during: All time Leakage due to concealed plumbing Yes Leakage due to damage in Nahani trap/Brickbat coba under tile flooring Yes Positive Side Inputs For WC 100% Gaps/Blackish dirt Observed in tile joints Yes Gaps around Nahani Trap Joints Yes Tiles Broken/Loosed anywhere No Loose Plumbing joints/rust around joints and edges (Flush Yes Tank/shower/angle cock/bibcock, washbasin, etc) Type of tile Negative Side Inputs For External Wall 75% Condition of leakage at interior side Leakage during: All time Leakage due to concealed plumbing Yes Internal WC/Bath/Balcony leakage observed Yes Positive Side Inputs for External Wall 100% Existing type of paint and manufacturer Not sure Stuctural Condition of RCC Members 100% Checklists 1 flagged, 84.21% Moderate Checklist: WC External wall Condition of cracks observed on RCC Column and Beam Moderate Condition of rust marks observed in RCC Beam and Column N/A Condition of corrosion/spalling of concrete/exposed reinforcement observed in column/beams/roof slab ceiling N/A Expansion joints condition if any N/A Condition of External wall 100% Are there any major or minor cracks observed over external surface? Moderate Are the sealants applied on the window frame joints intact? N/A Condition of wall mounted AC Frames, holes, drain pipes over the wall. Are the external plumbing pipes cracked and leaked? If yes its condition. Are the openings around the pipes in external wall properly grouted? If not its condition. Condition of any vegetation growth, dish antennas fixed on parapet wall observed? N/A Moderate N/A N/A Condition of Adhesion of old paint 100% Chalking and flaking in"
+    }
+  ],
+  "summary_points": [],
+  "images": [
+    {
+      "source": "inspection",
+      "page": 1,
+      "filename": "inspection_p001_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p001_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 2,
+      "filename": "inspection_p002_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p002_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img02.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img03.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img04.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img04.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img05.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img05.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img06.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img06.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img07.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img07.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img08.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img08.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img09.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img09.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img10.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img10.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img11.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img11.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img12.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img12.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img13.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img13.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img14.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img14.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 3,
+      "filename": "inspection_p003_img15.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p003_img15.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img02.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img03.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img04.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img04.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img05.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img05.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img06.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img06.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img07.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img07.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img08.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img08.jpeg",
+      "width": 169,
+      "height": 169
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img09.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img09.jpeg",
+      "width": 169,
+      "height": 169
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img10.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img10.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img11.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img11.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img12.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img12.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img13.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img13.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img14.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img14.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img15.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img15.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img16.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img16.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img17.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img17.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img18.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img18.jpeg",
+      "width": 169,
+      "height": 169
+    },
+    {
+      "source": "inspection",
+      "page": 4,
+      "filename": "inspection_p004_img19.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p004_img19.jpeg",
+      "width": 169,
+      "height": 169
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img02.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img03.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img04.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img04.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img05.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img05.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img06.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img06.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img07.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img07.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img08.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img08.jpeg",
+      "width": 169,
+      "height": 169
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img09.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img09.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img10.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img10.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img11.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img11.jpeg",
+      "width": 370,
+      "height": 492
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img12.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img12.jpeg",
+      "width": 370,
+      "height": 492
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img13.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img13.jpeg",
+      "width": 370,
+      "height": 492
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img14.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img14.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img15.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img15.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img16.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img16.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 5,
+      "filename": "inspection_p005_img17.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p005_img17.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img02.jpeg",
+      "width": 166,
+      "height": 163
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img03.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img04.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img04.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img05.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img05.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img06.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img06.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img07.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img07.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img08.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img08.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img09.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img09.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img10.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img10.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img11.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img11.jpeg",
+      "width": 169,
+      "height": 169
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img12.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img12.jpeg",
+      "width": 169,
+      "height": 169
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img13.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img13.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img14.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img14.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img15.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img15.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img16.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img16.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 6,
+      "filename": "inspection_p006_img17.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p006_img17.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 7,
+      "filename": "inspection_p007_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p007_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 8,
+      "filename": "inspection_p008_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p008_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 9,
+      "filename": "inspection_p009_img01.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p009_img01.jpeg",
+      "width": 285,
+      "height": 214
+    },
+    {
+      "source": "inspection",
+      "page": 9,
+      "filename": "inspection_p009_img02.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p009_img02.png",
+      "width": 1612,
+      "height": 3
+    },
+    {
+      "source": "inspection",
+      "page": 10,
+      "filename": "inspection_p010_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p010_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 11,
+      "filename": "inspection_p011_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p011_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 11,
+      "filename": "inspection_p011_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p011_img02.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 11,
+      "filename": "inspection_p011_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p011_img03.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 11,
+      "filename": "inspection_p011_img04.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p011_img04.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 11,
+      "filename": "inspection_p011_img05.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p011_img05.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 11,
+      "filename": "inspection_p011_img06.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p011_img06.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 11,
+      "filename": "inspection_p011_img07.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p011_img07.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 12,
+      "filename": "inspection_p012_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p012_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 12,
+      "filename": "inspection_p012_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p012_img02.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 12,
+      "filename": "inspection_p012_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p012_img03.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 12,
+      "filename": "inspection_p012_img04.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p012_img04.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 12,
+      "filename": "inspection_p012_img05.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p012_img05.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 12,
+      "filename": "inspection_p012_img06.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p012_img06.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 12,
+      "filename": "inspection_p012_img07.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p012_img07.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 13,
+      "filename": "inspection_p013_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p013_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 13,
+      "filename": "inspection_p013_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p013_img02.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 13,
+      "filename": "inspection_p013_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p013_img03.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 13,
+      "filename": "inspection_p013_img04.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p013_img04.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 13,
+      "filename": "inspection_p013_img05.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p013_img05.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 13,
+      "filename": "inspection_p013_img06.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p013_img06.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 13,
+      "filename": "inspection_p013_img07.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p013_img07.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 13,
+      "filename": "inspection_p013_img08.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p013_img08.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 14,
+      "filename": "inspection_p014_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p014_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 14,
+      "filename": "inspection_p014_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p014_img02.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 14,
+      "filename": "inspection_p014_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p014_img03.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 14,
+      "filename": "inspection_p014_img04.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p014_img04.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 14,
+      "filename": "inspection_p014_img05.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p014_img05.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 15,
+      "filename": "inspection_p015_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p015_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 15,
+      "filename": "inspection_p015_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p015_img02.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 15,
+      "filename": "inspection_p015_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p015_img03.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 15,
+      "filename": "inspection_p015_img04.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p015_img04.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 15,
+      "filename": "inspection_p015_img05.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p015_img05.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 15,
+      "filename": "inspection_p015_img06.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p015_img06.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 15,
+      "filename": "inspection_p015_img07.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p015_img07.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 16,
+      "filename": "inspection_p016_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p016_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 16,
+      "filename": "inspection_p016_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p016_img02.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 16,
+      "filename": "inspection_p016_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p016_img03.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 17,
+      "filename": "inspection_p017_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p017_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 17,
+      "filename": "inspection_p017_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p017_img02.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 17,
+      "filename": "inspection_p017_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p017_img03.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 17,
+      "filename": "inspection_p017_img04.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p017_img04.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 17,
+      "filename": "inspection_p017_img05.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p017_img05.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 17,
+      "filename": "inspection_p017_img06.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p017_img06.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 17,
+      "filename": "inspection_p017_img07.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p017_img07.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 18,
+      "filename": "inspection_p018_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p018_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 18,
+      "filename": "inspection_p018_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p018_img02.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 18,
+      "filename": "inspection_p018_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p018_img03.jpeg",
+      "width": 370,
+      "height": 492
+    },
+    {
+      "source": "inspection",
+      "page": 19,
+      "filename": "inspection_p019_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p019_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 19,
+      "filename": "inspection_p019_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p019_img02.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 19,
+      "filename": "inspection_p019_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p019_img03.jpeg",
+      "width": 370,
+      "height": 492
+    },
+    {
+      "source": "inspection",
+      "page": 19,
+      "filename": "inspection_p019_img04.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p019_img04.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 19,
+      "filename": "inspection_p019_img05.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p019_img05.jpeg",
+      "width": 370,
+      "height": 492
+    },
+    {
+      "source": "inspection",
+      "page": 19,
+      "filename": "inspection_p019_img06.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p019_img06.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 19,
+      "filename": "inspection_p019_img07.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p019_img07.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 20,
+      "filename": "inspection_p020_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p020_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 20,
+      "filename": "inspection_p020_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p020_img02.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 20,
+      "filename": "inspection_p020_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p020_img03.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 20,
+      "filename": "inspection_p020_img04.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p020_img04.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 20,
+      "filename": "inspection_p020_img05.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p020_img05.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 20,
+      "filename": "inspection_p020_img06.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p020_img06.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 20,
+      "filename": "inspection_p020_img07.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p020_img07.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 21,
+      "filename": "inspection_p021_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p021_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 21,
+      "filename": "inspection_p021_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p021_img02.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 21,
+      "filename": "inspection_p021_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p021_img03.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 22,
+      "filename": "inspection_p022_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p022_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 22,
+      "filename": "inspection_p022_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p022_img02.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 22,
+      "filename": "inspection_p022_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p022_img03.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 22,
+      "filename": "inspection_p022_img04.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p022_img04.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 22,
+      "filename": "inspection_p022_img05.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p022_img05.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 22,
+      "filename": "inspection_p022_img06.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p022_img06.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 22,
+      "filename": "inspection_p022_img07.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p022_img07.jpeg",
+      "width": 370,
+      "height": 493
+    },
+    {
+      "source": "inspection",
+      "page": 23,
+      "filename": "inspection_p023_img01.png",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p023_img01.png",
+      "width": 2099,
+      "height": 223
+    },
+    {
+      "source": "inspection",
+      "page": 23,
+      "filename": "inspection_p023_img02.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p023_img02.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 23,
+      "filename": "inspection_p023_img03.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p023_img03.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 23,
+      "filename": "inspection_p023_img04.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p023_img04.jpeg",
+      "width": 493,
+      "height": 370
+    },
+    {
+      "source": "inspection",
+      "page": 23,
+      "filename": "inspection_p023_img05.jpeg",
+      "path": "C:/Users/shubh/Desktop/AI generalist/out/assets/inspection_p023_img05.jpeg",
+      "width": 493,
+      "height": 370
+    }
+  ]
+}
