@@ -1,0 +1,14 @@
+.venv/
+out/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# bundles
+submission_bundle*.zip
+
+# OS/editor
+.vscode/
+Thumbs.db
+desktop.ini

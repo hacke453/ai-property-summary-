@@ -1,0 +1,100 @@
+# Main DDR (Detailed Diagnostic Report)
+
+**Generated at:** {{ generated_at }}
+
+**Input PDFs**
+- **Inspection Report:** `{{ inputs.inspection_pdf }}`
+- **Thermal Report:** `{{ inputs.thermal_pdf }}`
+
+## 1. Property Issue Summary
+{% for item in property_issue_summary %}
+- {{ item }}
+{% endfor %}
+
+## 2. Area-wise Observations
+{% for area in area_wise %}
+### {{ area.title }}
+{% for o in area.observations %}
+- {{ o }}
+{% endfor %}
+{% if area.images and area.images|length > 0 %}
+{% for img in area.images %}
+![{{ img.filename }}]({{ img.rel_path }})
+{% endfor %}
+{% if area.images_omitted_note %}
+- **Note:** {{ area.images_omitted_note }}
+{% endif %}
+{% else %}
+- **Images:** {{ area.image_mapping_note }}
+{% endif %}
+{% endfor %}
+
+## 3. Probable Root Cause
+{% for c in probable_root_cause %}
+- {{ c }}
+{% endfor %}
+
+## 4. Severity Assessment (with reasoning)
+**Overall severity:** {{ severity.label }}
+
+{% for r in severity.reasoning %}
+{{ r }}
+{% endfor %}
+
+## 5. Recommended Actions
+{% for a in recommended_actions %}
+- {{ a }}
+{% endfor %}
+
+## 6. Additional Notes
+{% for n in additional_notes %}
+- {{ n }}
+{% endfor %}
+
+## 7. Missing or Unclear Information
+{% for m in missing_or_unclear %}
+- {{ m }}
+{% endfor %}
+
+## Extracted Images (Unmapped)
+This section includes extracted images when the source PDFs do not provide reliable mapping between “Photo X / Image Y” references and embedded images.
+
+### Inspection PDF – extracted images
+{% if extracted.inspection.images and extracted.inspection.images|length > 0 %}
+{% set max_unmapped = 30 %}
+{% for img in extracted.inspection.images[:max_unmapped] %}
+- Page {{ img.page }}: `{{ img.filename }}`
+
+![{{ img.filename }}]({{ ("assets/" ~ img.filename) }})
+{% endfor %}
+{% if extracted.inspection.images|length > max_unmapped %}
+- **Note:** {{ extracted.inspection.images|length - max_unmapped }} additional extracted image(s) not shown here.
+{% endif %}
+{% else %}
+- Image Not Available
+{% endif %}
+
+### Thermal PDF – extracted images
+{% if extracted.thermal.images and extracted.thermal.images|length > 0 %}
+{% set max_unmapped = 30 %}
+{% for img in extracted.thermal.images[:max_unmapped] %}
+- Page {{ img.page }}: `{{ img.filename }}`
+
+![{{ img.filename }}]({{ ("assets/" ~ img.filename) }})
+{% endfor %}
+{% if extracted.thermal.images|length > max_unmapped %}
+- **Note:** {{ extracted.thermal.images|length - max_unmapped }} additional extracted image(s) not shown here.
+{% endif %}
+{% else %}
+- Image Not Available
+{% endif %}
+
+## Thermal Readings (Extracted)
+{% if extracted.thermal.findings and extracted.thermal.findings|length > 0 %}
+{% for f in extracted.thermal.findings %}
+- **Thermal #{{ f.seq }}**: image `{{ f.thermal_image_filename or "Not Available" }}`, hotspot {{ f.hotspot_c if f.hotspot_c is not none else "Not Available" }}°C, coldspot {{ f.coldspot_c if f.coldspot_c is not none else "Not Available" }}°C, date {{ f.date or "Not Available" }}
+{% endfor %}
+{% else %}
+- Not Available
+{% endif %}
+
